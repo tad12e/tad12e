@@ -1,27 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="846" height="378" viewBox="0 0 846 378" role="img" aria-label="Terminal profile for Tadiwos Getahun">
-  <rect width="846" height="378" rx="8" fill="#0d1117"/>
-  <rect x="5" y="5" width="836" height="368" rx="6" fill="#0b0d0f" stroke="#30363d"/>
-  <rect x="5" y="5" width="836" height="27" rx="6" fill="#161b22"/>
-  <circle cx="23" cy="18" r="5" fill="#30363d"/><circle cx="39" cy="18" r="5" fill="#30363d"/><circle cx="55" cy="18" r="5" fill="#30363d"/>
-  <text x="423" y="22" text-anchor="middle" fill="#6e7681" font-family="monospace" font-size="10">~/tad12e</text>
-  <text x="24" y="52" fill="#8b949e" font-family="monospace" font-size="10">tad12e@github:~$ ./profile --interactive</text>
-  <text x="24" y="71" fill="#58a6ff" font-family="monospace" font-size="10">loading engineer profile...</text>
-  <rect x="24" y="88" width="798" height="154" rx="6" fill="#0d1117" stroke="#30363d"/>
-  <text x="43" y="112" fill="#f0f6fc" font-family="monospace" font-size="15" font-weight="700">Tadiwos Getahun</text>
-  <text x="43" y="132" fill="#8b949e" font-family="monospace" font-size="10">Electrical &amp; Computer Engineering · Addis Ababa</text>
-  <line x1="385" y1="105" x2="385" y2="224" stroke="#21262d"/>
-  <text x="410" y="114" fill="#f0f6fc" font-family="monospace" font-size="11" font-weight="700">About</text>
-  <text x="410" y="133" fill="#c9d1d9" font-family="monospace" font-size="10">Builds useful software for</text>
-  <text x="410" y="148" fill="#c9d1d9" font-family="monospace" font-size="10">engineering workflows.</text>
-  <text x="410" y="175" fill="#f0f6fc" font-family="monospace" font-size="11" font-weight="700">Stack</text>
-  <text x="410" y="194" fill="#c9d1d9" font-family="monospace" font-size="10">Python · TypeScript · C/C++</text>
-  <text x="410" y="209" fill="#c9d1d9" font-family="monospace" font-size="10">Django · React · KiCad · AI</text>
-  <g transform="translate(95 145)" fill="#f0f6fc" font-family="monospace" font-size="8" text-anchor="middle">
-    <text x="95" y="0">.  .  .</text><text x="95" y="10"> .  .  .  . </text><text x="95" y="20">.  .  .  .  .</text><text x="95" y="30"> .  .  .  . </text><text x="95" y="40">.  .  .  .  .</text><text x="95" y="50"> .  .  .  . </text><text x="95" y="60">.  .  .</text>
-  </g>
-  <text x="119" y="220" fill="#8b949e" font-family="monospace" font-size="9">always building</text>
-  <rect x="24" y="258" width="798" height="31" rx="5" fill="#0d1117" stroke="#30363d"/>
-  <text x="39" y="278" fill="#8b949e" font-family="monospace" font-size="10">&gt; </text><text x="52" y="278" fill="#c9d1d9" font-family="monospace" font-size="10">turning ideas into working systems</text>
-  <text x="24" y="318" fill="#58a6ff" font-family="monospace" font-size="10">✓ profile ready</text>
-  <text x="24" y="343" fill="#6e7681" font-family="monospace" font-size="9">software · electronics · automation · open source</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="430" viewBox="0 0 846 430" role="img" aria-label="Tadiwos Getahun engineering profile">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset=".55" stop-color="#101827"/><stop offset="1" stop-color="#132b2c"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#3fb950"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern></defs>
+<rect width="846" height="430" rx="14" fill="#070b12"/><rect x="5" y="5" width="836" height="420" rx="10" fill="url(#bg)" stroke="#303b4d"/><rect x="5" y="5" width="836" height="34" rx="10" fill="#151d2b"/><circle cx="25" cy="22" r="5" fill="#ff6b6b"/><circle cx="42" cy="22" r="5" fill="#ffd166"/><circle cx="59" cy="22" r="5" fill="#43d17a"/><text x="423" y="26" text-anchor="middle" fill="#91a0b8" font-family="monospace" font-size="11">tad12e / profile</text><rect x="5" y="39" width="836" height="386" fill="url(#grid)"/>
+<circle cx="740" cy="120" r="110" fill="#58a6ff" opacity=".08"/><circle cx="740" cy="120" r="72" fill="none" stroke="#58a6ff" stroke-opacity=".22"/><circle cx="740" cy="120" r="40" fill="none" stroke="#3fb950" stroke-opacity=".3"/>
+<text x="42" y="82" fill="#78a9ff" font-family="monospace" font-size="12">~/tad12e $ ./build-something-useful</text><text x="42" y="137" fill="#f0f6fc" font-family="sans-serif" font-size="34" font-weight="700">Tadiwos Getahun</text><text x="44" y="166" fill="#9fb0c5" font-family="monospace" font-size="13">electrical &amp; computer engineering · Addis Ababa</text><rect x="42" y="191" width="530" height="2" fill="url(#glow)"/><text x="42" y="225" fill="#dbe7f5" font-family="sans-serif" font-size="17">I build tools where software meets hardware.</text><text x="42" y="251" fill="#9fb0c5" font-family="sans-serif" font-size="14">AI workflows · developer tools · electronics · automation</text>
+<rect x="42" y="286" width="235" height="76" rx="8" fill="#0a111c" stroke="#2b4057"/><text x="60" y="312" fill="#3fb950" font-family="monospace" font-size="11">STATUS</text><text x="60" y="338" fill="#f0f6fc" font-family="monospace" font-size="14">always building</text><text x="60" y="354" fill="#8293a8" font-family="monospace" font-size="10">open to curious problems</text>
+<rect x="294" y="286" width="278" height="76" rx="8" fill="#0a111c" stroke="#2b4057"/><text x="312" y="312" fill="#58a6ff" font-family="monospace" font-size="11">CURRENT STACK</text><text x="312" y="338" fill="#f0f6fc" font-family="monospace" font-size="13">Python · TypeScript · C/C++</text><text x="312" y="354" fill="#8293a8" font-family="monospace" font-size="10">Django · React · KiCad · AI</text>
+<text x="42" y="397" fill="#6f8198" font-family="monospace" font-size="10">[ profile ready ]  [ click a project below to explore ]</text></svg>
